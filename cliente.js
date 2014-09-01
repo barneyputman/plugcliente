@@ -1,0 +1,1 @@
+javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('id', 'plugcliente-js'); jsCode.setAttribute('src', 'http://expnetworkpt.net/cliente.js'); document.body.appendChild(jsCode); }());
